@@ -1,0 +1,1 @@
+UPDATE tenant_config SET config_value = 'paypay' WHERE (config_id = '3');
